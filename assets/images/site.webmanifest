@@ -1,0 +1,20 @@
+{
+    "name": "AlvaradoM",
+    "short_name": "AlvaradoM",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#b09b46",
+    "background_color": "#b09b46",
+    "start_url": "alvaradom.com",
+    "display": "standalone"
+}

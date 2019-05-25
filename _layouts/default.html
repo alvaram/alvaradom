@@ -2,6 +2,14 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="{% if site.dark_theme %}dark{% else %}light{% endif %}">
 
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/images/apple-touch-icon.png" | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/images/favicon-32x32.png" | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/images/favicon-16x16.png" | relative_url }}">
+<link rel="manifest" href="{{ "/assets/images/site.webmanifest" | relative_url }}">
+<link rel="mask-icon" href="{{ "/assets/images/safari-pinned-tab.svg" | relative_url }}" color="#b09b46">
+<meta name="msapplication-TileColor" content="#b09b46">
+<meta name="theme-color" content="#b09b46">
+
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
@@ -10,6 +18,7 @@
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
 <link rel="stylesheet" href="{{ site.style | default: "theme" | prepend: "/assets/css/" | append: ".css" | relative_url }}">
+<link rel="stylesheet" href="{{ "/assets/css/font.css" | relative_url }}">
 {% if site.plugins contains "jekyll-feed" %}<link rel="alternate" type="application/atom+xml" href="{{ "/feed.xml" | relative_url }}" title="{{ site.title }}" />{% endif %}
 {% if page.mathjax or site.mathjax %}
 <link rel="stylesheet" href="{{ "/assets/katex/katex.min.css" | relative_url }}">
@@ -21,7 +30,7 @@
 
 <header class="{% if site.dark_header %}dark{% endif %}">
   {% unless site.hide_title %}
-    <h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
+    <a href="{{ "/" | relative_url }}"><img src="/assets/images/logo.png" class="logo" width="75"></a>
   {% endunless %}
   {% if site.navigation %}
     <nav>
@@ -44,5 +53,14 @@
 </header>
 
 {{ content }}
+
+<footer class="{% if site.dark_header %}dark{% endif %}">
+  {% unless site.hide_title %}
+    <h3><a href="{{ "/" | relative_url }}"><strong>{{ site.title | escape }}</strong></a></h3>
+  {% endunless %}
+  <nav>
+    © 2019
+  </nav>
+</footer>
 
 </html>

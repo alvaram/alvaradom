@@ -1,0 +1,14 @@
+/*custom*/
+@import url(../fonts/playfair/font.css);
+@import url(../fonts/roboto/font.css);
+body{
+	font-family: "Roboto", "Helvetica Neue", "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: "Playfair Display", sans-serif;
+	font-weight: 600;
+}
+button, input, select, textarea {
+}

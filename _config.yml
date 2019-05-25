@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Really cool blog about ... something"
+title: "Marcello Alvarado"
+author: "Marcello Alvarado"
+description: "Marcello is a full-stack designer working with startups to create amazing products."
 lang: "en"
 
 # Page settings
@@ -10,24 +10,26 @@ hide_title: false            # remove site heading in the header
 post_footer: true            # show previous and next links at the end of each post
 
 # Theme settings
-dark_theme: false            # use the dark mode as default
+dark_theme: true            # use the dark mode as default
 dark_header: false           # keep the header dark
-# style: minimal             # use a simpler style inspired by the minima theme
+style: minimal             # use a simpler style inspired by the minima theme
 
 navigation:                  # (optional) site navigation in the header
-#  - index.html
-#  - README.md
-#  - title: "https://"       # linking external sites is also supported
+#  - article.md
+  - About: "/about/"
+  - cv.md
+  - design.md
+#  - Design: "//alvaradom.com"     # linking external sites is also supported
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/niklasbuschmann/contrast"
-  rss: "/contrast/feed.xml"
+  envelope: "mailto:marcello.alvarado@gmail.com?subject=Inquiry from AlvaradoM.com"
+  twitter: "https://twitter.com/marcelloalvarad"
+#  rss: "/contrast/feed.xml"
 
 # Pagination
-show_excerpts: false         # preview articles on the home page
-paginate: 8                  # number of articles per page
-excerpt_separator: "\n\n\n"  # indicate the end of the excerpt by two blank lines
+#show_excerpts: false         # preview articles on the home page
+#paginate: 8                  # number of articles per page
+#excerpt_separator: "\n\n\n"  # indicate the end of the excerpt by two blank lines
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
@@ -37,3 +39,5 @@ plugins:
  - jekyll-feed
  - jekyll-paginate
  - jekyll-default-layout
+
+host: 0.0.0.0
