@@ -40,4 +40,10 @@ plugins:
  - jekyll-paginate
  - jekyll-default-layout
 
+exclude:
+ - alvaradom.sublime-workspace
+ - alvaradom.sublime-project
+ - UNLICENSE.txt
+ - gitignore/
+
 host: 0.0.0.0

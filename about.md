@@ -7,7 +7,7 @@ permalink: "/about/"
 
 Hi 👋 my name is <b>Marcello Alvarado</b> and I'm a designer from LA. I've been designing and creating websites for over a decade now and as long as that has been, never really had a website, blah.
 
-I created this website as I probably needed something better than [this](https://www.dropbox.com/sh/rj453u4l5b0030t/AAD9O2tGJaxuXiwO8zUlf_YWa?dl=0), that explained my experience and what I've been doing professionally since I graduated in 2008 🎓. Find more [here](resume/cv).
+I created this website as I probably needed something better than [this](https://www.dropbox.com/sh/rj453u4l5b0030t/AAD9O2tGJaxuXiwO8zUlf_YWa?dl=0), that explained my experience and what I've been doing professionally since I graduated in 2008 🎓. Find more [here](/cv/).
 
 Right out of school, I got the best job I thought ever, working for Hustler Magazine(yes Larry Flynt). Did that desensitize me to almost everything I would say, ha - but learned and set the foundation for what I do now. So Thanks! I was there for quite some time(oh 5 years), then moved into the startup world, where I found my calling. Working with startups, the grunt work of wearing many hats, hiring, building small teams, is what I found that I like the most.
 
