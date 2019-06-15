@@ -108,3 +108,14 @@ article footer {
 .m-l {
   margin-left: 1em; 
 }
+.right {
+  float: right;
+}
+.text-right {
+  text-align: right;
+}
+@media (min-width: 80em) {
+  .m-r-lg {
+    margin-right: -200px;
+  }
+}

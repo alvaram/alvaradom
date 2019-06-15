@@ -60,9 +60,10 @@ https://medium.com/the-ui-files/load-svgs-from-different-domains-ports-protocols
 
     <nav>
 
-      <a class="icon" href="mailto:marcello.alvarado@gmail.com?subject=Inquiry from AlvaradoM.com" target="_blank"><svg><use xlink:href="#envelope"></use></svg></a>
+      <a class="icon" href="mailto:marcello.alvarado@gmail.com?subject=Inquiry from AlvaradoM.com"><svg><use xlink:href="#envelope"></use></svg></a>
       <a class="icon" href="https://twitter.com/marcelloalvarad" target="_blank"><svg><use xlink:href="#twitter"></use></svg></a>
-
+      <!-- https://flaviocopes.com/dark-mode/ -->
+      <a class="icon" href="#" onclick="localStorage.setItem('mode', (localStorage.getItem('mode') || 'dark') === 'dark' ? 'light' : 'dark'); localStorage.getItem('mode') === 'dark' ? document.querySelector('html').classList.add('dark') : document.querySelector('html').classList.remove('dark')" title="Dark/light">🌓</a>
     </nav>
 
 </header>
@@ -77,5 +78,10 @@ https://medium.com/the-ui-files/load-svgs-from-different-domains-ports-protocols
     © 2019
   </nav>
 </footer>
+<!-- https://codyhouse.co/blog/post/store-theme-color-preferences-with-localstorage -->
+<script type="text/javascript">
+  var darkThemeSelected = (localStorage.getItem('mode') !== null && localStorage.getItem('mode') === 'dark');
+  darkThemeSelected ? document.querySelector('html').classList.add('dark') : document.querySelector('html').classList.remove('dark');
+</script>
 </body>
 </html>
