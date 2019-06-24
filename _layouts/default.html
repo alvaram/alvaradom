@@ -75,7 +75,7 @@ https://medium.com/the-ui-files/load-svgs-from-different-domains-ports-protocols
     <h3><a href="{{ "/" | relative_url }}"><strong>{{ site.title | escape }}</strong></a></h3>
   {% endunless %}
   <nav>
-    © 2019
+    © {{ site.time | date: '%Y' }}
   </nav>
 </footer>
 <!-- https://codyhouse.co/blog/post/store-theme-color-preferences-with-localstorage -->
@@ -83,5 +83,8 @@ https://medium.com/the-ui-files/load-svgs-from-different-domains-ports-protocols
   var darkThemeSelected = (localStorage.getItem('mode') !== null && localStorage.getItem('mode') === 'dark');
   darkThemeSelected ? document.querySelector('html').classList.add('dark') : document.querySelector('html').classList.remove('dark');
 </script>
+{% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+{% endif %}
 </body>
 </html>
