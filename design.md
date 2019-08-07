@@ -1,6 +1,7 @@
 ---
 title: "Design"
 permalink: "/design/"
+design: true
 ---
 
 [Contact me](mailto:marcello.alvarado@gmail.com?subject=Inquiry from AlvaradoM.com) for most recent work.
@@ -62,3 +63,6 @@ A full service real sstate brokerage in Los Angeles. Real estate for the modern 
 
 <br><br><br><br>
 <br><br><br><br>
+<a href="/assets/images/portfolio/wis-system-alt.jpg" data-fancybox data-caption="Caption for single image">
+	<img src="/assets/images/portfolio/wis-system.jpg" alt="" />
+</a>
