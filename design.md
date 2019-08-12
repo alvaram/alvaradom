@@ -13,7 +13,7 @@ Design Lead on LottoGopher team. The first website for U.S. consumers to order o
 
 <a href="https://lottogopher.com/" target="_blank">Visit Site</a>
 
-<span class="clear" style="height: 240px;"></span>
+<span class="clear" style="height: 320px;"></span>
 
 <p><img align="right" src="/assets/images/portfolio/rubbercraft.png" width="800" hspace="50" class="m-l m-r-lg" alt="Rubbercraft"></p>
 
@@ -25,7 +25,7 @@ A high technology, engineered solutions company with specialization in precision
 
 <a href="https://www.rubbercraft.com/" target="_blank">Visit Site</a>
 
-<span class="clear" style="height: 150px;"></span>
+<span class="clear" style="height: 220px;"></span>
 
 <p class="slick" data-slick='{"dots":true,"arrows":false}'>
 	<img align="right" src="/assets/images/portfolio/docler.png" width="800" alt="Docler Media">
@@ -39,7 +39,7 @@ Innovative live streaming platforms: SonicBox, Oranum and Docler.com
 
 <a href="https://www.doclermedia.com/en/main//" target="_blank">Visit Site</a>
 
-<span class="clear" style="height: 380px;"></span>
+<span class="clear" style="height: 440px;"></span>
 
 <p><img align="right" src="/assets/images/portfolio/ucla.jpg" width="800" hspace="50" class="m-l m-r-lg" alt="UCLA"></p>
 
@@ -50,7 +50,7 @@ UCLA's School of Theater, Film, and TelevisionUCLA School of TFT.
 
 <a href="http://www.tft.ucla.edu/" target="_blank">Visit Site</a>
 
-<span class="clear" style="height: 290px;"></span>
+<span class="clear" style="height: 340px;"></span>
 
 <p><img align="right" src="/assets/images/portfolio/wis-system.jpg" width="800" hspace="50" class="m-l m-r-lg" alt="Walk In Sync"></p>
 
@@ -63,7 +63,7 @@ A dog training system to end pulling, lunging and jumping in minutes, using huma
 
 <a href="https://www.dogwalkinsync.com/" target="_blank">Visit Site</a>
 
-<span class="clear" style="height: 60px;"></span>
+<span class="clear" style="height: 160px;"></span>
 
 <article class="archive">
   <header><h1>Projects that never saw the light of day ☀️</h1></header>
