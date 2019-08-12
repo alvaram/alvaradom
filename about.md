@@ -11,15 +11,15 @@ I created this website as I probably needed something better than [this](https:/
 
 Right out of school, I got the best job I thought ever, working for Hustler Magazine(yes Larry Flynt). Did that desensitize me to almost everything I would say, ha - but learned and set the foundation for what I do now. I was there for quite some time(oh 5 years), then moved into the startup world, where I found my calling. Working with startups, the grunt work of wearing many hats, hiring, building small teams, is what I found that I like the most.
 
-Since my Hustler days(literally ha), I have worked with 3 startup companies DoclerMedia, LottoGopher(FreeLotto), and one I can't disclose at this time NDA. During my work here at these startups I have grown in many ways, starting as an intern(Warner Bros), to Lead Designer, lead UI/UX for a 30 person dev team, grew to be Director of Design for startup(LottoGopher) and now VP of Operations. I've seen and done a lot, which doesn't mean much, as I'm still a student and learning everday! 👨‍💻
+Since my Hustler days(literally ha), I have worked with 3 startup companies DoclerMedia, LottoGopher(FreeLotto), and one I can't disclose at this time NDA. During my work here at these startups I have grown in many ways, starting as an Intern at Warner Bros., to Lead Designer, lead UI/UX for a 30 person dev team, grew to be Director of Design for startup(LottoGopher) and now VP of Operations. I've seen and done a lot, which doesn't mean much, as I'm still a student and learning everday! 👨‍💻
 
 What do I like to do for fun? Sometimes I have to ask myself that as I'm constantly working, but I love what I do so is it really work? But to get away from the screen every now and then(I'm actually going blind because of it), I'm a pretty spontaneous guy but intrigued by:
 
 - exploring the wilderness, hikes, camping (just being outdoors really) 🏕 
-- love being with my pups(dog Cooper), playing, running and going for walks 👟
+- love being with my pups (<a href="https://www.dropbox.com/s/ngfl1i4ovjjxu2v/cooper.jpg?dl=0" target="_blank">dog Cooper</a>), playing, running and going for walks 👟
 - don't really like going to the movies - but I love Movie Popcorn!! 🍿 (I'll just go to the movies to go buy the popcorn, yeah that's me!)
-- playing Frisbee Golf (best place ever played, at the <a href="https://www.dropbox.com/s/t7euob5d8nnekau/IMG_5449.JPG?dl=0" target="_blank">Dodger Stadium</a>) 🥏
-- oh and how can I forget 🤦‍♂️, being with my Wife 👸(6 years married), who is my best friend and who I've been with since high school! (18 years guys, yikes lol)
+- playing Frisbee Golf (best place ever played, at the <a href="https://www.dropbox.com/s/t7euob5d8nnekau/IMG_5449.JPG?dl=0" target="_blank">Dodger Stadium</a>) & paintball 🥏 
+- oh and how can I forget 🤦‍♂️, being with my Wife 👸(6 years married), who is my best friend and who I've been with since high school! (18 years, yikes lol)
 
 ## Contact
 

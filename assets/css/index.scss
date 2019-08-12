@@ -53,7 +53,6 @@ article header h1 {
 article footer {
   padding: 1em 0;
 }
-
 .logo {
   vertical-align: middle;
 }
@@ -77,6 +76,9 @@ article footer {
 
 .archive h3, .archive a {
   font-weight: inherit;
+  &._600 {
+    font-weight: 600;
+  }
 }
 
 .archive time {
@@ -108,14 +110,33 @@ article footer {
 .m-l {
   margin-left: 1em; 
 }
+.clear {
+  display: block;
+  overflow: hidden;
+  height: 200px;
+}
 .right {
   float: right;
 }
 .text-right {
   text-align: right;
 }
+.slick-initialized.slick-slider {
+  img {
+    border-radius: 2px;
+    &:focus {
+      outline: 0;
+    }
+  }
+}
 @media (min-width: 80em) {
   .m-r-lg {
     margin-right: -200px;
+  }
+  .slick-initialized.slick-slider {
+    width: 800px;
+    float: right;
+    margin-right: -200px;
+    margin-left: 1em;
   }
 }
