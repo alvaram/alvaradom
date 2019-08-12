@@ -68,7 +68,12 @@ A dog training system to end pulling, lunging and jumping in minutes, using huma
 <article class="archive">
   <header><h1>Projects that never saw the light of day ☀️</h1></header>
   <div>
-  	<h3><a href="/assets/images/portfolio/haus-lp.gif" data-fancybox data-caption="Haus Real Estate" class="_600">Haus Real Estate</a></h3>
+  	<h3><a href="/assets/images/portfolio/haus-landing-page.png" data-fancybox="haus" data-caption="Haus Real Estate" class="_600" data-thumb="/assets/images/portfolio/haus-landing-page.png">Haus Real Estate</a></h3>
     <time> A full service real estate brokerage in Los Angeles. Real estate for the modern times. Designed intial protoype of website; Landing page and schedule page. <a href="https://www.goinhaus.com/" target="_blank">Visit Site</a></time>
+    <div style="display: none;">
+    	<a data-fancybox="haus" data-caption="Haus Real Estate - Listing Page" href="/assets/images/portfolio/haus-listing-detail.png" data-thumb="/assets/images/portfolio/haus-listing-detail.png"></a>
+    	<a data-fancybox="haus" data-caption="Haus Real Estate - Signup Page" href="/assets/images/portfolio/haus-signup.png" data-thumb="/assets/images/portfolio/haus-signup.png"></a>
+    	<a data-fancybox="haus" data-caption="Haus Real Estate - Landing Page" href="/assets/images/portfolio/haus-lp.gif" data-thumb="/assets/images/portfolio/haus-lp.gif"></a>
+    </div>
   </div>
 </article>
