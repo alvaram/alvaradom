@@ -19,7 +19,7 @@ What do I like to do for fun? Sometimes I have to ask myself that as I'm constan
 - love being with my pups (<a href="https://www.dropbox.com/s/ngfl1i4ovjjxu2v/cooper.jpg?dl=0" target="_blank">dog Cooper</a>), playing, running and going for walks 👟
 - don't really like going to the movies - but I love Movie Popcorn!! 🍿 (I'll just go to the movies to go buy the popcorn, yeah that's me!)
 - playing Frisbee Golf (best place ever played, at the <a href="https://www.dropbox.com/s/t7euob5d8nnekau/IMG_5449.JPG?dl=0" target="_blank">Dodger Stadium</a>) & paintball 🥏 
-- oh and how can I forget 🤦‍♂️, being with my Wife 👸(6 years married), who is my best friend and who I've been with since high school! (18 years, yikes lol)
+- oh and how can I forget 🤦‍♂️, being with my Wife 👸(6 years married), who is my best friend and whom I've been with since high school! (18 years strong 💪)
 
 ## Contact
 
