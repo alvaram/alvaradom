@@ -17,7 +17,7 @@ style: minimal             # use a simpler style inspired by the minima theme
 
 navigation:                  # (optional) site navigation in the header
 #  - article.md
-  - About: "/about/"
+  - about.md
   - cv.md
   - design.md
 #  - Design: "//alvaradom.com"     # linking external sites is also supported

@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "About"
 permalink: "/about/"
 ---
 
-<p><img align="right" src="/assets/images/me-01.jpg" width="400" hspace="50" class="m-l"></p>
+<p><img align="right" src="{{ site.baseurl }}/assets/images/me-01.jpg" width="400" hspace="50" class="m-l"></p>
 
 Hi 👋 my name is <b>Marcello Alvarado</b> and I'm a designer from LA. I've been designing and creating websites for over a decade now and as long as that has been, never really had a website, blah.
 

@@ -49,7 +49,7 @@ https://medium.com/the-ui-files/load-svgs-from-different-domains-ports-protocols
 </svg>
 <header class="{% if site.dark_header %}dark{% endif %}">
   {% unless site.hide_title %}
-    <a href="{{ "/" | relative_url }}"><img src="/assets/images/logo.png" class="logo" width="75"></a>
+    <a href="{{ "/" | relative_url }}"><img src="{{ '/assets/images/logo.png' | relative_url }}" class="logo" width="75"></a>
   {% endunless %}
   {% if site.navigation %}
     <nav>
