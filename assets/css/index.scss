@@ -40,6 +40,10 @@ header {
   border-bottom: 2px solid #383838
 }
 
+article.container  {
+  margin-bottom: 1.5em;
+}
+
 article header {
   display: block;
   margin-bottom: 1.5em;
@@ -113,7 +117,6 @@ article footer {
 .clear {
   display: block;
   overflow: hidden;
-  height: 200px;
 }
 .right {
   float: right;
@@ -127,6 +130,11 @@ article footer {
     &:focus {
       outline: 0;
     }
+  }
+}
+@media (max-width: 80em) {
+  .m-b-md {
+    margin-bottom: 1.5em;
   }
 }
 @media (min-width: 80em) {
