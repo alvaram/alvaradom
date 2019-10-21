@@ -13,7 +13,7 @@ Right out of school, I got the best job I thought ever, working for Hustler Maga
 
 Since my Hustler days(literally ha), I have worked with 3 startup companies DoclerMedia, LottoGopher(FreeLotto), and one I can't disclose at this time NDA. During my work here at these startups I have grown in many ways, starting as an Intern at Warner Bros., to Lead Designer, lead UI/UX for a 30 person dev team, grew to be Director of Design for startup(LottoGopher) and now VP of Operations. I've seen and done a lot, which doesn't mean much, as I'm still a student and learning everday! 👨‍💻
 
-What do I like to do for fun? Sometimes I have to ask myself that as I'm constantly working, but I love what I do so is it really work? But to get away from the screen every now and then(I'm actually going blind because of it), I'm a pretty spontaneous guy but intrigued by:
+What do I like to do for fun? Sometimes I have to ask myself that as I'm constantly working, but I love what I do so is it really work? But to get away from the screen every now and then(I'm actually going blind because of it), I'm a pretty spontaneous guy and intrigued by:
 
 - exploring the wilderness, hikes, camping (just being outdoors really) 🏕 
 - love being with my pups (<a href="https://www.dropbox.com/s/ngfl1i4ovjjxu2v/cooper.jpg?dl=0" target="_blank">dog Cooper</a>), playing, running and going for walks 👟
