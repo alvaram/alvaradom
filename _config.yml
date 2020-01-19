@@ -42,6 +42,7 @@ plugins:
  - jekyll-default-layout
 
 exclude:
+ - alvaradom.code-workspace
  - alvaradom.sublime-workspace
  - alvaradom.sublime-project
  - UNLICENSE.txt

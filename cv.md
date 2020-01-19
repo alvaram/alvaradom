@@ -52,7 +52,7 @@ Responsible for managing and creating all websites on Hustler Network. Collabora
         - <a href="https://www.einsteinpets.com/" target="_blank">Einstein Pets</a> 🐶 
         - <a href="https://fimocreations.com/" target="_blank">FimoCreations</a> 🦎 
 - <span id="Shopify">**Online Courses Completed**</span>
-    - [Design+Code](https://designcode.io/) by Meng To
+    - <a href="https://designcode.io/" target="_blank">Design+Code</a> by Meng To
         - Animating in Principle
         - Advanced Prototyping in ProtoPie
         - SVG Animations with GreenSock
@@ -60,15 +60,15 @@ Responsible for managing and creating all websites on Hustler Network. Collabora
         - Video Editing in ScreenFlow
         - Motion Design in After Effects
         - Learn iOS 11 Design
-    - [WesBos Courses](https://wesbos.com/courses/)
+    - <a href="https://wesbos.com/courses/" target="_blank">WesBos Courses</a>
         - Beginner JavaScript
         - CSS Grid
         - JavaScript30
         - Command Line Power User
-    - [Flux Academy](https://learn.flux-academy.com/) by Ran Segall
+    - <a href="https://learn.flux-academy.com/" target="_blank">Flux Academy</a> by Ran Segall
         - The $10k Website Process
         - Webflow Styling & Structuring Principles
-    - [Chimp Essentials](https://chimpessentials.com/) by Paul Jarvis
+    - <a href="https://chimpessentials.com/" target="_blank">Chimp Essentials</a> by Paul Jarvis
 - <span id="Shopify">**Work Ethic**</span>
     - I little on how I work. I'm a very motivated and responsive individual, both in my studies and work I do. Reliable and always on time and ready to work, with professionals and non-professionals at all levels. I'm highly proficient and talented when it comes to design, thrives in deadline-driven environments and can maintain a sense of humor at the same time. I have excellent communication and team-building skills, patience and a great passion for detail. 
 - <span id="Shopify">**Creative & Design**</span>
