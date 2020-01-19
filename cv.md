@@ -65,7 +65,7 @@ Responsible for managing and creating all websites on Hustler Network. Collabora
         - CSS Grid
         - JavaScript30
         - Command Line Power User
-    - <a href="https://learn.flux-academy.com/" target="_blank">Flux Academy</a> by Ran Segall
+    - <a href="https://www.flux-academy.com/" target="_blank">Flux Academy</a> by Ran Segall
         - The $10k Website Process
         - Webflow Styling & Structuring Principles
     - <a href="https://chimpessentials.com/" target="_blank">Chimp Essentials</a> by Paul Jarvis
