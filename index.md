@@ -4,7 +4,7 @@ layout: home
 
 # Marcello Alvarado is a Professional Design Leader with Experience Building Teams & Products for Startups.
 
-Currently working with small startups based out of Hong Kong, New York and Los Angeles as Director of Deisgn and VP of Operations. With my background in Media Arts & Graphic Desgin and [years of experience](/cv/) designing products, I have a knack of what good visual design takes to be effective and create a meaningful experience at the same time.
+Currently working with small startups based out of Hong Kong, New York and Los Angeles as Director of Design and VP of Operations. With my Bachelor’s Degree in Media Arts & Graphic Design and years of experience designing products, I have a knack of what good visual design takes to be effective and to create a meaningful experience.
 
 More [about me](/about/) and my [past experience](/cv/).
 

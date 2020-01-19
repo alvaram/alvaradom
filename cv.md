@@ -3,7 +3,7 @@ title: "CV"
 permalink: "/cv/"
 ---
 
-[PDF](https://www.dropbox.com/s/wv3983ezhh6jx34/alvaradom-cv.pdf?dl=0)
+<a href="https://www.dropbox.com/s/6tzsx3s3b6atlpt/alvaradom-resume.pdf?dl=0" target="_blank">PDF</a>
 
 ## Experience
 
@@ -11,7 +11,7 @@ permalink: "/cv/"
 <address>LottoGopher.com - Los Angeles, CA<br>
 FreeLotto.com - New York, NY</address>
 
-Plans and oversees all daily operations of business. Make sure everyone is on task according to 30, 60, 90 day project timeline and we are hitting goals on time to faciliate growth development and long-term success. Measure and track success of business and idenitfy areas of the business where we can improve on. Interfaces and collaborates with President/CEO and works directly with each department’s suprivsors to review next goals/targets to meet for each quarter.
+Plans and oversees all daily operations of business. Make sure everyone is on task according to 30, 60, 90 day project timeline and we are hitting goals on time to facilitate growth development and long-term success. Measure and track success of business and identify areas of the business where we can improve on. Interfaces and collaborates with President/CEO and works directly with each department’s supervisors to review next goals/targets to meet for each quarter.
 
 <h3>Director of Design <time class="right">2017 - 2018</time></h3>
 <address>LottoGopher.com - Los Angeles, CA</address>
@@ -51,6 +51,34 @@ Responsible for managing and creating all websites on Hustler Network. Collabora
         - <a href="https://www.mickeyandjenny.com/" target="_blank">MICKEY & JENNY</a> 👗
         - <a href="https://www.einsteinpets.com/" target="_blank">Einstein Pets</a> 🐶 
         - <a href="https://fimocreations.com/" target="_blank">FimoCreations</a> 🦎 
+- <span id="Shopify">**Online Courses Completed**</span>
+    - [Design+Code](https://designcode.io/) by Meng To
+        - Animating in Principle
+        - Advanced Prototyping in ProtoPie
+        - SVG Animations with GreenSock
+        - Design System in Figma
+        - Video Editing in ScreenFlow
+        - Motion Design in After Effects
+        - Learn iOS 11 Design
+    - [WesBos Courses](https://wesbos.com/courses/)
+        - Beginner JavaScript
+        - CSS Grid
+        - JavaScript30
+        - Command Line Power User
+    - [Flux Academy](https://learn.flux-academy.com/) by Ran Segall
+        - The $10k Website Process
+        - Webflow Styling & Structuring Principles
+    - [Chimp Essentials](https://chimpessentials.com/) by Paul Jarvis
+- <span id="Shopify">**Work Ethic**</span>
+    - I little on how I work. I'm a very motivated and responsive individual, both in my studies and work I do. Reliable and always on time and ready to work, with professionals and non-professionals at all levels. I'm highly proficient and talented when it comes to design, thrives in deadline-driven environments and can maintain a sense of humor at the same time. I have excellent communication and team-building skills, patience and a great passion for detail. 
+- <span id="Shopify">**Creative & Design**</span>
+    - Expertise when it comes to website & app design, responsive design, UI/UX design, user flow & wireframes. I have a strong sense and understand the value of design, keeping the user in mind but also knowing the constraints from front and back-end development and marrying the two. Deep understanding of web design technologies, including HTML, CSS, JS, adhering to the latest W3C standards and cross-browser compatibility. Very familiar and comfortable with customization of eCommerce Platforms such as Shopify, WordPress, SquareSpace, WooCommerce and Magento. Great understanding of using frameworks too like Bootstrap 4, Foundation and HTML5 Boilerplate.
+    - Some Tools I use to accomplish the above and to be able to work remotely as a team:
+        - Adobe CC, Sketch, Figma, InVision, Zeplin, Principle, ProtoPie, Miro Board, GIT, Jira/Confluence & Slack
+- <span id="Shopify">**Marketing & Social Media**</span>
+    - Developed email drips and marketing strategy to increase customer retention and acquisition on website. Managed social media accounts with over 50k+ followers and strategized around user engagement and content creation with marketing department. Experience with Professional SEO Strategy & Audits from third party companies and implementing effective strategies to increase ROI. Also, familiar with Google Analytics, setting up funnels, tracking user behavior and analyzing/monetizing marketing spend on different channels.
+- <span id="Shopify">**Management & Leadership**</span>
+    - As head of Operations I was in charge of managing small teams from 4-8 people, great communication and organization skills to manage daily standups and scrum/agile with development teams. Can supervise and facilitate all department calls with weekly agendas to discuss on-going tasks, any issues team is encountering and analyze the efficiency of the business procedures. Able to collaborate and work side by side CEO and top executives to make operational decisions, provide weekly evaluation on overall business's performance  and apply improvements on a regular basis. Played liaises between current relationships and agreements with third party vendors and explored areas and ways to run more efficiently and optimize operational budgets.
 
 ## References
 [Contact me](mailto:marcello.alvarado@gmail.com?subject=Inquiry from AlvaradoM.com) for references.

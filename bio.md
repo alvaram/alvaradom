@@ -6,7 +6,7 @@ permalink: "/bio/"
 ## Long Bio
 Marcello Alvarado is a web designer, front-end developer, product designer and manager. With over a decade of experience designing products, Marcello provides a professional leadership and product-development approach for startups to create great products & brands.
 
-He's konwn for being a perfectionist at almost everything he does, and when not working Marcello enjoys the outdoors, frisbee golfing, is a dog lover, green tea enthusiasts and an avid music listener. He even has is own <a href="http://eepurl.com/gHnVBH" target="_blank">'Design Music'</a> Slack Channel for daily music inspiration. 
+He's known for being a perfectionist at almost everything he does, and when not working Marcello enjoys the outdoors, frisbee golfing, is a dog lover, green tea enthusiasts and an avid music listener. He even has is own <a href="http://eepurl.com/gHnVBH" target="_blank">'Design Music'</a> Slack Channel for daily music inspiration. 
 
 Before starting the freelance business, Marcello spent 8 years as a Designer working for well known companies in the U.S. With a successful career in design, Marcello now helps small startups get their businesses off the ground and scale.
 
