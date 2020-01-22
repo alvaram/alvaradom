@@ -111,6 +111,9 @@ article footer {
 .m-t-lg {
   margin-top: 3em; 
 }
+.m-b-lg {
+  margin-bottom: 3em; 
+}
 .m-l {
   margin-left: 1em; 
 }
@@ -118,11 +121,31 @@ article footer {
   display: block;
   overflow: hidden;
 }
+.w-half {
+  width: 50%;
+}
+.w-full {
+  width: 100%;
+}
 .right {
   float: right;
 }
+.none {
+  display: none;
+}
+.center-block {
+  margin-left: auto;
+  margin-right: auto;
+}
 .text-right {
   text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-muted {
+  color: inherit !important;
+  opacity: 0.6;
 }
 .slick-initialized.slick-slider {
   img {

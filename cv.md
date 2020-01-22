@@ -53,18 +53,18 @@ Responsible for managing and creating all websites on Hustler Network. Collabora
         - <a href="https://fimocreations.com/" target="_blank">FimoCreations</a> 🦎 
 - <span id="Shopify">**Online Courses Completed**</span>
     - <a href="https://designcode.io/" target="_blank">Design+Code</a> by Meng To
-        - Animating in Principle
-        - Advanced Prototyping in ProtoPie
-        - SVG Animations with GreenSock
         - Design System in Figma
         - Video Editing in ScreenFlow
         - Motion Design in After Effects
         - Learn iOS 11 Design
+        - Animating in Principle <small class="text-muted"><em>in progress</em></small>
+        - Advanced Prototyping in ProtoPie <small class="text-muted"><em>in progress</em></small>
+        - SVG Animations with GreenSock <small class="text-muted"><em>in progress</em></small>
     - <a href="https://wesbos.com/courses/" target="_blank">WesBos Courses</a>
-        - Beginner JavaScript
         - CSS Grid
         - JavaScript30
         - Command Line Power User
+        - Beginner JavaScript <small class="text-muted"><em>in progress</em></small>
     - <a href="https://www.flux-academy.com/" target="_blank">Flux Academy</a> by Ran Segall
         - The $10k Website Process
         - Webflow Styling & Structuring Principles
