@@ -54,7 +54,7 @@ Responsible for managing and creating all websites on Hustler Network. Collabora
 - <span id="Shopify">**Marketing & Social Media**</span>
     - Developed email drips and marketing strategy to increase customer retention and acquisition on website. Managed social media accounts with over 50k+ followers and strategized around user engagement and content creation with marketing department. Experience with Professional SEO Strategy & Audits from third party companies and implementing effective strategies to increase ROI. Also, familiar with Google Analytics, setting up funnels, tracking user behavior, analyzing and monetizing marketing spend on different channels.
 - <span id="Shopify">**Management & Leadership**</span>
-    - As head of Operations I was in charge of managing small teams from 4-8 people, great communication and organization skills to manage daily standups and scrum/agile with development teams. Can supervise and facilitate all department calls with weekly agendas to discuss on-going tasks, any issues team is encountering and analyze the efficiency of the business procedures. Able to collaborate and work side by side CEO and top executives to make operational decisions, provide weekly evaluation on overall business's performance and apply improvements on a regular basis. Played liaises between current relationships and agreements with third party vendors and explored areas and ways to run more efficiently and optimize operational budgets.
+    - As head of Operations I was in charge of managing small teams from 4-8 people, great communication and organization skills to manage daily standups and scrum/agile with development teams. Can supervise and facilitate all department calls with weekly agendas to discuss on-going tasks, any issues team is encountering and analyze the efficiency of the business procedures. Able to collaborate and work side by side CEO and top executives to make operational decisions, provide weekly evaluation on overall business's performance and apply improvements on a regular basis. Played liaison between current relationships and agreements with third party vendors and explored areas and ways to run more efficiently and optimize operational budgets.
 - <span id="Shopify">**Shopify Expert**</span>
     - Built over half of dozen custom themes and e-commerece stores on the Shopify Platform, including:
         - <a href="https://www.dogwalkinsync.com/" target="_blank">Walk In Sync</a> 🐾
@@ -82,4 +82,4 @@ Responsible for managing and creating all websites on Hustler Network. Collabora
 
 
 ## References
-[Contact me](mailto:marcello.alvarado@gmail.com?subject=Inquiry from AlvaradoM.com) for references.
+[Contact me](mailto:marcello@alvaradom.com?subject=Inquiry from AlvaradoM.com) for references.
