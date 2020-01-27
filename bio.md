@@ -4,6 +4,8 @@ permalink: "/bio/"
 bio: true
 ---
 
+<p><img align="right" src="{{ site.baseurl }}/assets/images/me-03.jpg" width="125" hspace="50" class="m-l m-b-md b-r"></p>
+
 <blockquote id="long" class="none">
     <p>Marcello Alvarado is a web designer, front-end developer, product designer and manager. With over a decade of experience designing products, Marcello provides a professional leadership and product-development approach for startups to create great products & brands.</p>
 	<p>He's known for being a perfectionist at almost everything he does, and when not working Marcello enjoys the outdoors, frisbee golfing, is a dog lover, green tea enthusiasts and an avid music listener. He even has is own <a href="http://eepurl.com/gHnVBH" target="_blank">'Design Music'</a> Slack Channel for daily music inspiration.</p>
