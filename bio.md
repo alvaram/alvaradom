@@ -14,8 +14,8 @@ bio: true
 </blockquote>
 
 <blockquote id="med">
-    <p>Marcello Alvarado is a professional designer living in Los Angeles working with startups to create great products & brands. Marcello holds a BA in Media Arts and Graphic Design from Mt. Sierra College. His clients include Larry Flynt Publications and Warner Bros. Entertainment Group, amongst other smaller businesses and startups.</p>
-	<p>With over a decade of experience designing products, helping companies from branding to product design, Marcello provides the knowledge and know-how of what it takes for a product to succeed and fail.</p>
+    <p>Marcello Alvarado is a professional designer living in Los Angeles working with startups to create great products & brands. Marcello holds a Bachelor’s Degree in Media Arts & Graphic Design from Mt. Sierra College.</p>
+	<p>With over a decade of experience designing products, helping companies from branding to product design, Marcello provides the knowledge and know-how of what it takes for a product to succeed and fail. His clients include Larry Flynt Publications and Warner Bros. Entertainment Group, amongst other smaller businesses and startups.</p>
 	<p>In his spare time he likes to listen to music, play with his dog, frisbee golf and eats popcorn more than he should. You can follow here <a href="https://twitter.com/marcelloalvarad" target="_blank">@marcelloalvarad</a> and email at <a href="mailto:marcello@alvaradom.com?subject=Inquiry from AlvaradoM.com" target="_blank">marcello@alvaradom.com</a></p>
 </blockquote>
 
