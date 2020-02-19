@@ -23,7 +23,7 @@ What do I like to do for fun? Sometimes I have to ask myself that as I'm constan
 
 ## Contact
 
-* **email**: [marcello@alvaradom.com](mailto:marcello@alvaradom.com?subject=Inquiry from AlvaradoM.com) 📧 
+* **email**: [marcello@alvaradom.com](mailto:marcello@alvaradom.com?subject=Enquiry from AlvaradoM.com) 📧 
 * **twitter**: [@marcelloalvarad](https://twitter.com/marcelloalvarad)
 * **phone**: 626.383.7546 (faster response by email)
 * **bio**: professional [bio](/bio/)
