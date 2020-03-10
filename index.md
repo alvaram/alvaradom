@@ -8,8 +8,6 @@ Working remotely with small startups based out of Hong Kong, New York and Los An
 
 More [about me](/about/) and my [past experience](/cv/).
 
-
-
 ### Social & Contact
 
 <a href="https://www.linkedin.com/in/marcello-alvarado-31380b13" target="_blank">LinkedIn</a> • <a href="https://twitter.com/marcelloalvarad" target="_blank">Twitter</a>
