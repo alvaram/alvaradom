@@ -89,7 +89,7 @@ FreeLotto.com - New York, NY</address>
 	- Developed email drips and marketing campaigns to increase customer retention and acquisition.
 	- Insights into Google Analytics and KPI reports to monetize marketing spend on different channels.
 - **Management Skills**:
-	- Began as Director of Design and was promoted to VP of Operations for startup. I was in charge of managing small teams that consisted of daily standups and scrum/agile with development teams, facilitating daily calls with Marketing, Business Intelligence and Customer Service departments to go over weekly agendas and discuss on-going tasks.
+	- Began as Director of Design and was promoted to VP of Operations for startup. I was in charge of managing small teams that consisted of daily standups and scrum with development teams, facilitating daily calls with Marketing, Business Intelligence and Customer Service departments to go over weekly agendas and discuss on-going tasks.
 	- Collaborated and worked side by side  CEO to provide weekly evaluations and overall business performance insights
 	- Liaison between current relationships and vendors and explored areas and ways to run more efficiently.
 
