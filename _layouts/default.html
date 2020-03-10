@@ -12,7 +12,7 @@
 
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="title" content="Hi 👋 my name is Marcello Alvarado ">
+<meta name="title" content="{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}">
 <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 <meta name="author" content="{{ page.author | default: site.author | escape}}">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
@@ -20,14 +20,14 @@
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:title" content="Hi 👋 my name is Marcello Alvarado ">
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}">
 <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 <meta property="og:image" content="{{ "site-screenshot.png" | relative_url }}">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="{{ page.url | absolute_url }}">
-<meta property="twitter:title" content="Hi 👋 my name is Marcello Alvarado ">
+<meta property="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}">
 <meta property="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 <meta property="twitter:image" content="{{ "site-screenshot.png" | relative_url }}">
 
