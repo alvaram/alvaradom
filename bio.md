@@ -25,7 +25,7 @@ bio: true
 </blockquote>
 
 <blockquote id="short" class="none">
-    <p>Marcello Alvarado is a professional web designer working with early stage startups from Los Angeles. With over a decade of experience, Marcello has the expertise and vision to help you drive your business forward with exceptional e-commerce design, software development, and strategic leadership.</p>
+    <p>Marcello Alvarado is a professional web designer working with early stage startups from Los Angeles. With over a decade of experience, Marcello has the expertise and vision to help you drive your business forward with exceptional brand design, product development, and strategic leadership.</p>
 	<p>He has worked for Larry Flynt at Hustler Magazine, LottoGopher.com, and numerous startups. He has grown from a web designer to a proven leader who can improve the retention of clients, deliver exceptional customer service, and work with C-Suite Leadership to plan for the future in a competitive space.</p>
 	<p>Building teams and developing talent has come naturally to Marcello. He regularly Freelances with businesses, and his clients appreciate the perfectionism, reliability, and professionalism that separate Marcello from his peers in the industry.</p>
 	<p>In his spare time he likes to listen to music, play with his dog, frisbee golf and eats popcorn more than he should. You can follow here <a href="https://twitter.com/marcelloalvarad" target="_blank">@marcelloalvarad</a> and email at <a href="mailto:marcello@alvaradom.com?subject=Enquiry from AlvaradoM.com" target="_blank">marcello@alvaradom.com</a></p>
