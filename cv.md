@@ -16,7 +16,7 @@ permalink: "/cv/"
 - Consulted and led collaboration with the designers, vendors & developers to create multi-functioning prototypes, high-fidelity comps, and implementation of UI design.
 
 <h3 class="m-b m-t-md">Freelance Designer (Contract) <time class="right">2013 - Present</time></h3>
-<address>Famcom, Inc. - NewYork, NY</address>
+<address>Famcom, Inc. - New York, NY</address>
 
 - Produce, develop and manage content for all aspects of the organization’s online presence.
 - Responsible for leading product design, front-end development, and design integration to support the engineering team with the execution of web pages and online assets.
