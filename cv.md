@@ -120,4 +120,4 @@ FreeLotto.com - New York, NY</address>
 
 
 ## References
-[Contact me](mailto:marcello@alvaradom.com?subject=Enquiry from AlvaradoM.com) for references.
+[Contact me](mailto:marcello@alvaradom.com?subject=Inquiry from Alvaradom.com) for references.
