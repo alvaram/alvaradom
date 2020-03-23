@@ -12,16 +12,17 @@ permalink: "/cv/"
 
 - OPP is an online procurement platform for FF&E and OS&E products serving hotel, hospitality and multi-unit developers.
 - Contracted with the OPP team to create an all-in-one platform capable of managing, ordering and creating specifications for custom and purchased interior furnishings.
-- Responsible for the overall strategy, UX/UI design, and web development.
-- Consulted and led collaboration with the designers, vendors & developers to create multi-functioning prototypes, high-fidelity comps, and implementation of UI design.
+- Responsible for the entire product lifecycle from overall strategy to UI/UX design with multiple product launches to get to market.
+- Consulted and led collaboration with the designers, vendors & developers to rapidly produce multiple concepts and prototypes.
+
 
 <h3 class="m-b m-t-md">Freelance Designer (Contract) <time class="right">2013 - Present</time></h3>
 <address>Famcom, Inc. - New York, NY</address>
 
 - Produce, develop and manage content for all aspects of the organization’s online presence.
 - Responsible for leading product design, front-end development, and design integration to support the engineering team with the execution of web pages and online assets.
-- Participated in discussions with small teams across engineering and creative functions, taking design specs through to production.
-- Contributed to high-level strategic decisions to develop the best possible experience for users.
+- Participated in discussions with small multi-disciplinary teams, to communicate design decisions and rationale.
+- Conducted ususablity testing by interacting with users thru surveys and sites like usertesting to understand their pain points and quickly come up with solutions.
 
 <h3 class="m-b m-t-md">VP of Operations (Remote)<time class="right">2018 - 2019</time></h3>
 <address>LottoGopher.com - Los Angeles, CA<br>
@@ -39,7 +40,7 @@ FreeLotto.com - New York, NY</address>
 - Coordinated expansion plans into other states as well as lead new acquisitions for the company.
 - Monitored and improved retention and metrics by analyzing KPIs/OKRs.
 - Responsible for timeline adheres, ensured all design teams had assets and information needed to complete and accurately deliver their work on time.
-- Worked directly with the internal marketing team with third-party influencers, campaigns and product recognition.
+- Worked directly with the internal marketing team and third-party influencers, to create campaigns for product recognition.
 
 <h3 class="m-b m-t-md">UI/UX Designer <time class="right">2015 - 2017</time></h3>
 <address>DoclerMedia.com - Hollywood, CA</address>
