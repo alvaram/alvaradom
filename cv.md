@@ -22,7 +22,7 @@ permalink: "/cv/"
 - Produce, develop and manage content for all aspects of the organization’s online presence.
 - Responsible for leading product design, front-end development, and design integration to support the engineering team with the execution of web pages and online assets.
 - Participated in discussions with small multi-disciplinary teams, to communicate design decisions and rationale.
-- Conducted ususablity testing by interacting with users thru surveys and sites like usertesting to understand their pain points and quickly come up with solutions.
+- Conducted ususablity testing by interacting with users thru surveys and sites like usertesting to understand their pain points and quickly come up with alternative solutions.
 
 <h3 class="m-b m-t-md">VP of Operations (Remote)<time class="right">2018 - 2019</time></h3>
 <address>LottoGopher.com - Los Angeles, CA<br>
