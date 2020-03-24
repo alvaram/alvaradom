@@ -13,7 +13,7 @@ permalink: "/cv/"
 - OPP is an online procurement platform for FF&E and OS&E products serving hotel, hospitality and multi-unit developers.
 - Contracted with the OPP team to create an all-in-one platform capable of managing, ordering and creating specifications for custom and purchased interior furnishings.
 - Responsible for the entire product lifecycle from overall strategy to UI/UX design with multiple product launches to get to market.
-- Consulted and led collaboration with the designers, vendors & developers to rapidly produce multiple concepts and prototypes.
+- Consulted and led collaboration with the designers, vendors & developers to rapidly-produce multiple concepts and prototypes.
 
 
 <h3 class="m-b m-t-md">Freelance Designer (Contract) <time class="right">2013 - Present</time></h3>
@@ -22,7 +22,7 @@ permalink: "/cv/"
 - Produce, develop and manage content for all aspects of the organization’s online presence.
 - Responsible for leading product design, front-end development, and design integration to support the engineering team with the execution of web pages and online assets.
 - Participated in discussions with small multi-disciplinary teams, to communicate design decisions and rationale.
-- Conducted ususablity testing by interacting with users thru surveys and sites like usertesting to understand their pain points and quickly come up with alternative solutions.
+- Conducted usability testing by interacting with users through surveys and sites like usertesting to understand their pain points and quickly come up with alternative solutions.
 
 <h3 class="m-b m-t-md">VP of Operations (Remote)<time class="right">2018 - 2019</time></h3>
 <address>LottoGopher.com - Los Angeles, CA<br>
