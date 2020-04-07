@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Marcello Alvarado is a Professional Design Leader with Experience Building Teams & Products for Startups.
+# Marcello Alvarado is a Product Designer who has Experience Building Teams & Products for Startups.
 
 Working remotely with small startups based out of Hong Kong, New York and Los Angeles as a Product Designer, Freelance Designer, and Project Manager. With over a decade of experience, Marcello offers brand design, strategy, art direction, design thinking and UI/UX for early age startups to help grow and scale their business. 
 
