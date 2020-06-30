@@ -3,7 +3,7 @@ title: "CV"
 permalink: "/cv/"
 ---
 
-<a href="https://www.dropbox.com/s/tp6loeo3v2jb3bk/alvaradom-resume.pdf?dl=0" target="_blank">PDF</a>
+<a href="https://www.dropbox.com/s/jt7itnpdombuasa/alvaradom-resume.pdf?dl=0" target="_blank">PDF</a>
 
 ## Experience
 
