@@ -2,6 +2,9 @@
 title: "About"
 permalink: "/about/"
 ---
+{% assign date = site.time | date: '%Y' %}
+{% assign married = 2013 %}
+{% assign together = 2001 %}
 
 <p><img align="right" src="{{ site.baseurl }}/assets/images/me-01.jpg" width="400" hspace="50" class="m-l m-b-md"></p>
 
@@ -19,7 +22,7 @@ What do I like to do for fun? Sometimes I have to ask myself that as I'm constan
 - love being with my pups (<a href="https://www.dropbox.com/s/t57f22lssm5oaer/cooper.jpg?dl=0" target="_blank">dog Cooper</a>), playing, running and going for walks 👟
 - don't really like going to the movies - but I love Movie Popcorn!! 🍿 (I'll just go to the movies to go buy the popcorn, yeah that's me!)
 - playing Frisbee Golf (best place ever played, at the <a href="https://www.dropbox.com/s/j8x1bhechidie6v/disc-golf-dodger-stadium.JPG?dl=0" target="_blank">Dodger Stadium</a>) & paintball 🥏 
-- oh and how can I forget 🤦‍♂️, being with my Wife 👸(6 years married), who is my best friend and whom I've been with since high school! (18 years strong 💪)
+- oh and how can I forget 🤦‍♂️, being with my Wife 👸({{ date | minus: married }} years married), who is my best friend and whom I've been with since high school! ({{ date | minus: together }} years strong 💪)
 
 ## Contact
 
